@@ -1,0 +1,4 @@
+title: Ahmad and the Dragon
+topic: A brave knight named Ahmad sets out to defeat a terrifying dragon that’s been scaring the villagers. However, when he finally meets the dragon, he discovers the truth behind its fearsome reputation and learns an important lesson about empathy.
+categories: Adventure, Fantasy, Courage
+recommendedAge: 8-12

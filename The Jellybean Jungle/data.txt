@@ -1,0 +1,4 @@
+title: The Jellybean Jungle
+topic: A group of kids stumbles upon a jungle made entirely of jellybeans. They must find their way out by solving the puzzles of the jungle and learning valuable lessons along the way.
+categories: Fantasy, Adventure, Humor
+recommended_age: 6–9 years old
